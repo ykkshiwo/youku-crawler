@@ -1,2 +1,2 @@
 # youku-crawler
-help people find their favourite film in youku by python cramler.
+I want to develop a crawler that can help people find the videos on youku and find their favourite films depend on actors or types.
